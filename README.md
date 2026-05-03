@@ -127,3 +127,9 @@ The project is structured to be easily deployed to modern cloud platforms:
 
 ## 📄 License
 This project is for educational purposes.
+<img width="1884" height="784" alt="image" src="https://github.com/user-attachments/assets/69c27425-f9a4-4d67-aa71-2246b93768b7" />
+<img width="1898" height="890" alt="image" src="https://github.com/user-attachments/assets/b520d7c2-48e7-4c77-83cb-cc9303526263" />
+<img width="1901" height="868" alt="image" src="https://github.com/user-attachments/assets/576f8020-e876-4cb0-8fc9-290b705078a4" />
+<img width="1894" height="867" alt="image" src="https://github.com/user-attachments/assets/2bfa4491-d596-4427-aa37-0212eafa5652" />
+
+
